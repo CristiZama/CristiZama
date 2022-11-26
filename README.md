@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CristiZama
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in game and web development
+- 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
